@@ -1,2 +1,2 @@
 # webdev
-wweeb development
+web development
